@@ -1,0 +1,34 @@
+{
+  "websites": [
+    {
+      "amazon": {
+        "id": 1,
+        "books": [
+          {
+            "author": "Test1",
+            "bookTitle": "Pascal"
+          },
+          {
+            "author": "Test2",
+            "bookTitle": "JS"
+          }
+        ]
+      }
+    },
+    {
+      "rozetka": {
+        "id": 2,
+        "books": [
+          {
+            "author": "Test3",
+            "bookTitle": "java"
+          },
+          {
+            "author": "Test4",
+            "bookTitle": "Delphi"
+          }
+        ]
+      }
+    }
+  ]
+}
